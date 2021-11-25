@@ -10,4 +10,4 @@ I'm Sujeev, a Software Engineering student at the Ontario Tech University. I'm c
 - [Personal Website](https://www.sujeevuthayakumar.com/)
 
 ### 💼 Some of my past work: ...
-- [RentalPoint](https://rental-point.herokuapp.com/)(A concept project, for a car rental system)
+- [RentalPoint](https://rental-point.herokuapp.com/) (A concept project, for a car rental system)
