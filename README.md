@@ -1,5 +1,5 @@
 ### 👋 Hey there: ... 
-I'm Sujeev, a Software Engineering student at the Ontario Tech University. I'm currently in my 3rd year of my program and will be an incoming Software Developer at Celestica. I'm always interested to hear about any cool projects you're working on and meet new people!
+I'm Sujeev, a Software Engineering student at the Ontario Tech University. I'm currently in my 3rd year of my program and will be an incoming Software Developer Intern at Celestica. I'm always interested to hear about any cool projects you're working on and meet new people!
 
 ### 🌱 I’m learning: ...
 - React with Redux
