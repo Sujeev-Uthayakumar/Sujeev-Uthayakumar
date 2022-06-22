@@ -13,7 +13,7 @@ I'm Sujeev, a Software Engineering student at the Ontario Tech University. I'm c
 ## 🌱 I’m learning: ...
 - Angular
 - Swift and SwiftUI
-- SpringBoot
+- Spring Framework
 
 ## 📫 Find me here: ...
 - [LinkedIn](https://www.linkedin.com/in/sujeev-uthayakumar-83497b149/)
