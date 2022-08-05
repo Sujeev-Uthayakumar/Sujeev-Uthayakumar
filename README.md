@@ -22,6 +22,3 @@ I'm Sujeev, a Software Engineering student at the Ontario Tech University. I'm c
 ## 🚧 Some of my past personal projects: ...
 - [RentalPoint](https://rental-point.herokuapp.com/) (A concept project, for a car rental system)
 - [Chat-Application](https://socket-io-prod-chat-app.herokuapp.com/) (A concept project, for a messaging application)
-
-## 💼 Some of my past work: ...
-- [DiseMedia](https://disemedia.com/) (Built for a client)
