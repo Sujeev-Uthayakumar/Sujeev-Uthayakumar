@@ -1,5 +1,5 @@
 ## 👋 Hey there: ... 
-I'm Sujeev, a Software Engineering student at the Ontario Tech University. I'm currently in the 4th year of my program and working as a Software Developer Intern @ Celestica.
+I'm Sujeev, a Software Engineering student at the Ontario Tech University. I'm currently in the 4th year of my program and working as a Software Engineer Intern @ Celestica.
 
 ## 🔥 Streak stats: ...
 
