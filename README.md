@@ -1,5 +1,5 @@
 ## 👋 Hey there: ... 
-I'm Sujeev, a Software Engineering student at the Ontario Tech University. I'm currently in the 4th year of my program and working as a Software Engineer Intern @ Celestica.
+I'm Sujeev, a Master of Software Engineering student at McMaster University. I'm currently in the last year of my program and working as a Software Engineer @ Celestica.
 
 ## 🔥 Streak stats: ...
 
@@ -11,9 +11,8 @@ I'm Sujeev, a Software Engineering student at the Ontario Tech University. I'm c
 </p>
 
 ## 🌱 I’m learning: ...
-- Angular
-- Swift and SwiftUI
-- Spring Framework
+- GraphQL
+- Studying for AWS certification
 
 ## 📫 Find me here: ...
 - [LinkedIn](https://www.linkedin.com/in/sujeev-uthayakumar-83497b149/)
