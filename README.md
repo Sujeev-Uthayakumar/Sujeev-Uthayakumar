@@ -1,5 +1,6 @@
 ## 👋 Hey there: ... 
-I'm Sujeev, a Master of Software Engineering student at McMaster University. I'm currently in the last year of my program and working as a Software Engineer @ Celestica.
+I'm **Sujeev Uthayakumar**, a **Software Engineer** passionate about building scalable, cloud-native, and data-driven applications.  
+I recently completed my **Master of Engineering in Systems & Technology** at **McMaster University**, and I currently work at **Celestica**, where I develop enterprise systems using **Spring Boot**, **Java**, and **Google Cloud Platform**.
 
 ## 🔥 Streak stats: ...
 
@@ -11,8 +12,9 @@ I'm Sujeev, a Master of Software Engineering student at McMaster University. I'm
 </p>
 
 ## 🌱 I’m learning: ...
-- GraphQL
-- Studying for AWS certification
+- **GraphQL** for efficient and flexible API design  
+- **AWS Certified Solutions Architect** exam preparation  
+- **AI integrations** using OpenAI APIs and LangChain 
 
 ## 📫 Find me here: ...
 - [LinkedIn](https://www.linkedin.com/in/sujeev-uthayakumar-83497b149/)
