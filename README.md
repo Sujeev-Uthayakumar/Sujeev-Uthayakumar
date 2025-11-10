@@ -16,7 +16,7 @@ I'm **Sujeev Uthayakumar**, a **Software Engineer** passionate about building sc
 - **AI integrations** using OpenAI APIs and LangChain 
 
 ## 💬 A bit more about me: ...
-Outside of coding, I enjoy reading, exploring AI tools, and watching basketball. I like discovering new restaurants, planning small trips, and learning something new every week — whether it’s about tech, design, or the world in general. Always happy to connect, share ideas, or collaborate on interesting projects.
+Outside of coding, I enjoy reading, exploring AI tools, and watching basketball. I enjoy discovering new restaurants, planning short trips, and learning something new every week, whether it’s about technology, design, or the world in general. Always happy to connect, share ideas, or collaborate on interesting projects.
 
 ## 📫 Find me here: ...
 - [LinkedIn](https://www.linkedin.com/in/sujeev-uthayakumar-83497b149/)
