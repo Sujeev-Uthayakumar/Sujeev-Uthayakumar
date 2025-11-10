@@ -15,7 +15,7 @@ I'm **Sujeev Uthayakumar**, a **Software Engineer** passionate about building sc
 - **AWS Certified Solutions Architect** exam preparation  
 - **AI integrations** using OpenAI APIs and LangChain 
 
-## 💬 A Bit More About Me
+## 💬 A bit more about me: ...
 Outside of coding, I enjoy reading, exploring AI tools, and watching basketball. I like discovering new restaurants, planning small trips, and learning something new every week — whether it’s about tech, design, or the world in general. Always happy to connect, share ideas, or collaborate on interesting projects.
 
 ## 📫 Find me here: ...
