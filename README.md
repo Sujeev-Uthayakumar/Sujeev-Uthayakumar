@@ -19,3 +19,5 @@ I'm **Sujeev Uthayakumar**, a **Software Engineer** passionate about building sc
 - [LinkedIn](https://www.linkedin.com/in/sujeev-uthayakumar-83497b149/)
 - [Personal Website](https://www.sujeevuthayakumar.com/)
 
+## 💬 A Bit More About Me
+Outside of coding, I enjoy reading, exploring AI tools, and watching basketball. I like discovering new restaurants, planning small trips, and learning something new every week — whether it’s about tech, design, or the world in general. Always happy to connect, share ideas, or collaborate on interesting projects.
