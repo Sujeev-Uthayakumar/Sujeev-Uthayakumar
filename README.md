@@ -5,7 +5,7 @@ I'm **Sujeev Uthayakumar**, a **Software Engineer** passionate about building sc
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-alpha-three.vercel.app?user=" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-alpha-three.vercel.app?user=Sujeev-Uthayakumar" alt="GitHub Streak" /></a>
 </p>
 
 ## 🌱 I’m learning: ...
