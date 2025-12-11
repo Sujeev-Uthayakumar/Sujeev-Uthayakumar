@@ -6,8 +6,7 @@ I'm **Sujeev Uthayakumar**, a **Software Engineer** passionate about building sc
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sujeev-Uthayakumar&theme=github-dark-blue&hide_border=true"/>
-  </a>
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=Sujeev-Uthayakumar)](https://git.io/streak-stats)
 </p>
 
 ## 🌱 I’m learning: ...
