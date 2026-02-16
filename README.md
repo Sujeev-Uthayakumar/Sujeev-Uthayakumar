@@ -11,7 +11,7 @@ I'm **Sujeev Uthayakumar**, a **Software Engineer** passionate about building sc
 Outside of coding, I enjoy reading, exploring AI tools, and watching basketball. I enjoy discovering new restaurants, planning short trips, and learning something new every week, whether it’s about technology, design, or the world in general. Always happy to connect, share ideas, or collaborate on interesting projects.
 
 ## 🚀 Open Source Contributions: ...
-| Repository | Description of Repository | Focus |
+| Repository | Description | Focus |
 |--------|-------------|-------|
 | **[Warewolf](https://github.com/warewulf/warewulf)** | Stateless OS provisioning with diskless boot + automated cluster node setup | Systems · Infrastructure |
 | **[Raven](https://github.com/LSFLK/raven)** | IMAP server in Go with SQLite backend and Dockerized deployment | Go · Backend |
