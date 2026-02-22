@@ -11,7 +11,8 @@ I'm **Sujeev Uthayakumar**, a **Software Engineer** passionate about building sc
 Outside of coding, I enjoy reading, exploring AI tools, and watching basketball. I enjoy discovering new restaurants, planning short trips, and learning something new every week, whether it’s about technology, design, or the world in general. Always happy to connect, share ideas, or collaborate on interesting projects.
 
 ## 🛠 Some projects I'm working on: ...
-- 🚀 **[PerfAnalyze](https://github.com/Sujeev-Uthayakumar/perf-analyze)** - Gemini CLI extension that analyzes git diffs for performance pitfalls
+- 🚀 **[perf-analyze](https://github.com/Sujeev-Uthayakumar/perf-analyze)** - Gemini CLI extension that analyzes git diffs for performance pitfalls
+- 🛒 **[steam-market-mcp](https://github.com/Sujeev-Uthayakumar/steam-market-mcp)** - MCP server for searching and querying the Steam Community Market
 
 ## 🌍 Some of my open source contributions: ...
 | Repository | Description | Focus |
