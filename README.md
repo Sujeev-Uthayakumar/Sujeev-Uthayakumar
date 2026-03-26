@@ -13,6 +13,7 @@ Outside of coding, I enjoy reading, exploring AI tools, and watching basketball.
 ## 🛠 Some projects I'm working on: ...
 - 🚀 **[perf-analyze](https://github.com/Sujeev-Uthayakumar/perf-analyze)** - Gemini CLI extension that analyzes git diffs for performance pitfalls
 - 🛒 **[steam-market-mcp](https://github.com/Sujeev-Uthayakumar/steam-market-mcp)** - MCP server for searching and querying the Steam Community Market
+- **[steam-market-mcp](https://resumaxer.com)**
 
 ## 🌍 Some of my open source contributions: ...
 | Repository | Description | Focus |
